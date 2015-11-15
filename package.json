@@ -1,0 +1,23 @@
+{
+  "name": "edc-offload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/edc-offload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/edc-offload/issues"
+  },
+  "homepage": "https://github.com/stierma1/edc-offload#readme",
+  "dependencies": {
+    "basic-distributed-computation": "^1.0.2",
+    "request": "^2.65.0"
+  }
+}
